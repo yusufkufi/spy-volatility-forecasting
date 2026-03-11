@@ -1,3 +1,4 @@
+Note: data sourced from https://www.nasdaq.com/market-activity/etf/spy/historical?page=1&rows_per_page=10&timeline=y1 
 # spy-volatility-forecasting
 End-to-end ML pipeline: Snowflake feature engineering → AWS SageMaker training → serverless deployment
 # SPY Volatility Forecasting Model
